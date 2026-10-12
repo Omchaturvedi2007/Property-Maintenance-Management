@@ -1,0 +1,6 @@
+1|101|Water leakage in bathroom|Completed|2500.000000
+2|102|Shutter lock broken|Completed|1800.000000
+3|103|Electrical wiring short circuit in hall|Pending|0.000000
+4|104|Wall painting required before new tenant|Pending|0.000000
+5|105|Air conditioner not cooling|Completed|3500.000000
+6|106|Kitchen tap replacement|Pending|0.000000

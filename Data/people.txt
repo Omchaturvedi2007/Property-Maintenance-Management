@@ -1,0 +1,8 @@
+O|1|Rahul Mehta|9876543210|rahul.mehta@gmail.com
+O|2|Sneha Patel|9898012345|sneha.patel@gmail.com
+O|3|Vikram Singh|9812345678|vikram.singh@gmail.com
+T|4|Priya Shah|9123456780|101
+T|5|Amit Joshi|9234567891|102
+T|6|Neha Verma|9345678902|103
+T|7|Karan Desai|9456789013|105
+T|8|Anjali Rao|9567890124|0

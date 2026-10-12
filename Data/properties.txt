@@ -1,0 +1,6 @@
+101|Flat 12, Shivalik Apartments, Satellite|Flat|1|4|15000.000000
+102|Shop 5, City Mall, CG Road|Shop|1|5|25000.000000
+103|House 7, Green Park Society, Bopal|House|2|6|30000.000000
+104|Flat 3, Sunrise Residency, Navrangpura|Flat|2|0|12000.000000
+105|Shop 9, Market Complex, Maninagar|Shop|3|7|20000.000000
+106|Flat 21, Lake View Towers, Vastrapur|Flat|3|0|18000.000000
